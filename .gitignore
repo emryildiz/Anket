@@ -1,0 +1,10 @@
+
+/SurveyApi.Application/obj
+/SurveyApi.Domain/bin
+/SurveyApi.Application/bin
+/SurveyApi.Domain/obj
+/SurveyApi.Infrastructure/bin
+/SurveyApi.Infrastructure/Migrations
+/SurveyApi.Infrastructure/obj
+/SurveyApi/bin
+/SurveyApi/obj
